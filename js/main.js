@@ -718,5 +718,3 @@ function dnm_is_auto_time_active() {
     return true;
 }
 
-
-
